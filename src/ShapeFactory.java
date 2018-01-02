@@ -1,4 +1,7 @@
 
+
+
+
 public class ShapeFactory {
 	
 	public Shape getObject(String name){
